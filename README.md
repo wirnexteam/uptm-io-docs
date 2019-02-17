@@ -18,6 +18,7 @@ Everything that might be seen by HTTP protocol at the moment &mdash; Websites, A
 
 First you'll have to [create an account](https://login.uptm.io/signup) to let us know your email we will send the alerts to. Then [Sign In](https://login.uptm.io/signin) and you'll see the **Dashboard**.
 ![Dashboard](/img/dashboard.png)
+
 Navigate to **Monitors** and click **Add**.
 You'll see the form with protocol, URL (or IP), monitor name and the frequency fields.
 ![Create a Monitor](/img/create-a-monitor.png)
