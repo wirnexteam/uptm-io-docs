@@ -28,14 +28,14 @@ In this example frequency _5 min_ means that we're going to check the website av
 ![Create a Monitor](/img/create-a-monitor.png)
 
 Then click **Add** and you'll be navigated to the **Monitors** index where you can see the card of your just created monitor.
+![Monitor](/img/monitor-card.png)
+
+:heavy_check_mark:
 
 On the Monitor details page you can also see events list and response time chart.
 ![Monitor Details](/img/monitor-details.png)
 
-:heavy_check_mark:
-
-![Monitor](/img/monitor-card.png) 
-
+ 
 ## Automated Builds for CI
 
 ### Core Concepts of CI
