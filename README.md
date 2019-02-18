@@ -1,5 +1,13 @@
 # uptm-io-docs
 
+## Links
+
+Uptm.io website [https://uptm.io](https://uptm.io?utm_source=docs)
+
+Wirnexteam public github repos [https://github.com/wirnexteam](https://github.com/wirnexteam)
+
+## What is Uptm.io
+
 Uptm (short for Uptime) &mdash; is a platform for web developers and website owners. There are two core features (and more to come) such as [***Website Monitoring***](#website-monitoring) and [**Automated Builds**](#continuous-integration) for Continuous Integration (CI).
 
 ## Website Monitoring
@@ -43,6 +51,10 @@ On the Monitor details page you can also see events list and response time chart
 
  
 ## Automated Builds for CI
+
+### Demo Projects with CI config set up
+
+[NodeJs](https://github.com/wirnexteam/demo-ci-nodejs) 
 
 ### Core Concepts of CI
 
