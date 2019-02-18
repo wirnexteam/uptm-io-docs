@@ -54,7 +54,10 @@ On the Monitor details page you can also see events list and response time chart
 
 ### Demo Projects with CI config set up
 
-[NodeJs](https://github.com/wirnexteam/demo-ci-nodejs) 
+#### NodeJs 
+[https://github.com/wirnexteam/demo-ci-nodejs](https://github.com/wirnexteam/demo-ci-nodejs)
+ 
+[https://github.com/wirnexteam/demo-ci-nodejs-dockerless](https://github.com/wirnexteam/demo-ci-nodejs-dockerless)
 
 ### Core Concepts of CI
 
