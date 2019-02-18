@@ -24,7 +24,7 @@ Then [Sign In](https://login.uptm.io/signin?utm_source=docs) and you'll see the 
 
 Navigate to **Monitors** and click **Add**.
 You'll see the form with protocol, URL (or IP), monitor name and the frequency fields.
-In this example frequency _5 min_ means that we're going to check the website availability each 5 minutes.
+In this example frequency _5 min_ means that we're going to check the website availability every 5 minutes.
 ![Create a Monitor](/img/create-a-monitor.png)
 
 Then click **Add** and you'll be navigated to the **Monitors** index where you can see the card of your just created monitor.
