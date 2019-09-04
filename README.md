@@ -22,7 +22,7 @@ It is always better when you as the website owner get notified about that sooner
 We monitor your website periodically and check if it is up or down and immediately notify you when an accident happens.
 
 ### What kind of resources can be monitored?
-Everything that might be seen by HTTP protocol at the moment &mdash; Websites, APIs. More types of monitors to be released soon.
+We can monitor any resources that might be seen by HTTP protocol. Also we support TCP monitors where you can send raw requests and analyze responses. See [Advanced Monitoring](/monitoring) for reference. 
 
 ### How to create a Monitor for my Website?
 
