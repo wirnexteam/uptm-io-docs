@@ -33,10 +33,10 @@ Then [Sign In](https://login.uptm.io/signin?utm_source=docs) and you'll see the 
 
 
 Navigate to **Monitors** and click **Add**.
-You'll see the form with protocol, URL (or IP), monitor name and the frequency fields.
-In this example frequency _5 min_ means that we're going to check the website availability every 5 minutes.
+You'll see a form with name, type, host and other fields.
+In this example frequency _1 min_ means that we're going to check the website availability every minute (60 seconds). And _Down alert time_ is the minimum time a monitor should spend in Down state before we send you an alert.
 
-![Create a Monitor](/img/create-a-monitor.png)
+![Create a Monitor](/img/monitoring/create-http-monitor.png)
 
 
 Then click **Add** and you'll be navigated to the **Monitors** index where you can see the card of your just created monitor.
