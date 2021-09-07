@@ -38,6 +38,14 @@ In this example frequency _5 min_ means that we're going to check the website av
 
 ![Create a Monitor](/img/create-a-monitor.png)
 
+Select a "request-type" monitor
+![Monitor](/img/monitor-form.png)
+
+Input monitor name
+![Monitor name field](/img/monitor-name.png)
+
+Input monitor url
+![Monitor name field](/img/request-form.png)
 
 Then click **Add** and you'll be navigated to the **Monitors** index where you can see the card of your just created monitor.
 
